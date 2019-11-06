@@ -2,11 +2,11 @@
     font-family: 'Neue Machina';
     src: local('Neue Machina'),
     local('NeueMachina-Ultrabold'),
-    url('./NeueMachina-Ultrabold.ttf') format('truetype'),
-    url('./NeueMachina-Ultrabold.otf') format('opentype'),
-    url('./NeueMachina-Ultrabold.woff') format('woff'),
-    url('./NeueMachina-Ultrabold.woff2') format('woff2'),
-    url('./NeueMachina-Ultrabold.eot')
+    url('../NeueMachina-Ultrabold.ttf') format('truetype'),
+    url('../NeueMachina-Ultrabold.otf') format('opentype'),
+    url('../NeueMachina-Ultrabold.woff') format('woff'),
+    url('../NeueMachina-Ultrabold.woff2') format('woff2'),
+    url('../NeueMachina-Ultrabold.eot')
 ;
 }
 
@@ -14,7 +14,7 @@
     font-family: 'Neue Machina light';
     src: local('Neue Machina light'),
     local('NeueMachina-light'),
-    url('./NeueMachina-Light.otf') format('opentype')
+    url('../NeueMachina-Light.otf') format('opentype')
 ;
 }
 
