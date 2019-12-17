@@ -2,11 +2,11 @@
     font-family: 'Neue Machina';
     src: local('Neue Machina'),
     local('NeueMachina-Ultrabold'),
-    url('../NeueMachina-Ultrabold.ttf') format('truetype'),
-    url('../NeueMachina-Ultrabold.otf') format('opentype'),
-    url('../NeueMachina-Ultrabold.woff') format('woff'),
-    url('../NeueMachina-Ultrabold.woff2') format('woff2'),
-    url('../NeueMachina-Ultrabold.eot')
+    url('../media/NeueMachina-Ultrabold.ttf') format('truetype'),
+    url('../media/NeueMachina-Ultrabold.otf') format('opentype'),
+    url('../media/NeueMachina-Ultrabold.woff') format('woff'),
+    url('../media/NeueMachina-Ultrabold.woff2') format('woff2'),
+    url('../media/NeueMachina-Ultrabold.eot')
 ;
 }
 
@@ -14,7 +14,7 @@
     font-family: 'Neue Machina light';
     src: local('Neue Machina light'),
     local('NeueMachina-light'),
-    url('../NeueMachina-Light.otf') format('opentype')
+    url('../media/NeueMachina-Light.otf') format('opentype')
 ;
 }
 
@@ -249,7 +249,7 @@ svg:hover {
     /*margin-top: -6%;*/
     margin-top: 10%;
     border: 1px solid #efefef;
-    background-image: url("photo1.png");
+    background-image: url("../media/photo1.png");
     background-position: center;
     -webkit-border-radius: 51% 67% 56% 64%;
     -moz-border-radius: 51% 67% 56% 64%;
