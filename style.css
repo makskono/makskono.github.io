@@ -381,6 +381,10 @@ li:hover {
     transition-duration: 0.1s;
 }
 
+p:last-child {
+    line-height: 5
+}
+
 a {
     display: inline-block;
     color: rgb(164, 164, 165);
